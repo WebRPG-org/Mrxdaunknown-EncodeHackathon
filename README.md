@@ -2,9 +2,11 @@
 This project was created during the Neo X Grind Hackathon Encode Club Edition 2024.
 
 EDIT: Version 1.1 released
-- **Now it allows players to receive gold in exchange for native crypto (ETH / Neo X GAS)**
+- **Now it also allows players to receive gold in exchange for native cryptos (ETH / Neo X GAS)**
 - BNB and other EVM cryptos should also work, but not tested
 - Connection improvements
+- In Plugin Parameters you can decide if its a ERC-20 token or native (if native, then you dont need to change the
+token contract address of course (by default 0xdE41591ED1f8ED1484aC2CD8ca0876428de60EfF).
 
 **What is the project about / What was created?**
 
