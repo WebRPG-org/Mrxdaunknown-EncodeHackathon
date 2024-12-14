@@ -1,6 +1,11 @@
 # Neo X Grind Hackathon Encode Club Edition
 This project was created during the Neo X Grind Hackathon Encode Club Edition 2024.
 
+EDIT: Version 1.1 released
+- **Now it allows players to receive gold in exchange for native crypto (ETH / Neo X GAS)**
+- BNB and other EVM cryptos should also work, but not tested
+- Connection improvements
+
 **What is the project about / What was created?**
 
 This project showcases my created Javascript plugin "Metamask_Init" for the Neo X Grind Hackathon 2024 (Encode Club Edition).
