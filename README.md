@@ -3,7 +3,10 @@ This project was created during the Neo X Grind Hackathon Encode Club Edition 20
 
 EDIT: Version 1.1 released
 - **Now it also allows players to receive gold in exchange for native cryptos (ETH / Neo X GAS)**
-- BNB and other EVM cryptos should also work, but not tested
+- BNB and other EVM cryptos should also work
+( tested with BNB, its working, information how to add taken from
+https://support.metamask.io/network-profiles/network-profile-bnb-smart-chain-bnb/ )
+-> Sometimes the transaction on BNB was too fast, so that no ingame message appeared about a successful transaction
 - Connection improvements
 - In Plugin Parameters you can decide if its a ERC-20 token or native (if native, then you dont need to change the
 token contract address of course (by default 0xdE41591ED1f8ED1484aC2CD8ca0876428de60EfF).
